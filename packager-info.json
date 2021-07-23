@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": null,
+  "devToolsPort": 19003,
+  "expoServerPort": 19001,
+  "packagerPort": 19001,
+  "expoServerNgrokUrl": "https://uk-ze9.aditya-08.wiliapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.uk-ze9.aditya-08.wiliapp.exp.direct",
+  "ngrokPid": 10688,
+  "packagerPid": null
+}
